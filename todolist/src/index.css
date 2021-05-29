@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#tasklist-container::-webkit-scrollbar{
+   @apply w-0
+}
