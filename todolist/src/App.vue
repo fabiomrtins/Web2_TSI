@@ -20,19 +20,6 @@
     </div>
     <router-view />
   </div>
-  <!-- <List />
-    <Home /> -->
 </template>
 
-// <script>
-// import Home from "@/views/Home.vue";
-// import List from "@/components/List.vue";
 
-// export default {
-//   components: {
-//     Home,
-//     List,
-//   },
-// };
-//
-</script>
